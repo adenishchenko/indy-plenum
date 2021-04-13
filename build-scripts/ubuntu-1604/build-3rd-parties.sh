@@ -91,7 +91,7 @@ build_from_pypi sha3 0.2.1
 build_from_pypi libnacl 1.6.1
 build_from_pypi six 1.11.0
 build_from_pypi portalocker 0.5.7
-build_from_pypi sortedcontainers 1.5.7
+build_from_pypi sortedcontainers 2.3.0
 build_from_pypi setuptools 38.5.2
 build_from_pypi python-dateutil 2.6.1
 build_from_pypi semver 2.7.9
