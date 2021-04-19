@@ -107,7 +107,7 @@ setup(
                         'semver>=2.13.0',
                         'base58>=2.1.0',
                         'orderedset>=2.0.3',
-                        'sortedcontainers>=2.3.0',
+                        'sortedcontainers>=1.5.7',
                         'psutil>=5.6.6',
                         'pip<10.0.0',
                         'portalocker>=2.2.1',
