@@ -116,7 +116,7 @@ setup(
                         'intervaltree>=2.1.0',
                         'msgpack-python',
                         'python-rocksdb',
-                        'python-dateutil',
+                        'python-dateutil==2.8.1',
                         'pympler>=0.8',
                         'packaging',
                         'python-ursa==0.1.1',
